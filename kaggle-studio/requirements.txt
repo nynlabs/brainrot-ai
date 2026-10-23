@@ -1,0 +1,4 @@
+gradio>=5.20
+requests>=2.31
+google-genai>=1.0
+Pillow>=10.0
